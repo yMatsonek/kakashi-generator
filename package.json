@@ -1,0 +1,14 @@
+{
+  "name": "kakashi-bot",
+  "version": "1.0.1",
+  "description": "Generator!",
+  "main": "index.js",
+  "scripts": {
+    "test": "=test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
